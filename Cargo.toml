@@ -1,5 +1,5 @@
 [package]
-name = "snake_case"
+name = "tree"
 version = "0.1.0"
 authors = ["Nikita <nik.kulik2001@mail.ru>"]
 edition = "2018"

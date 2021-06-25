@@ -1,4 +1,4 @@
-use std::cmp::{Ord, Ordering};
+use std::cmp::Ord;
 use rand;
 use std::fmt::Display;
 
